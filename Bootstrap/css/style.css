@@ -1,0 +1,117 @@
+.cabecalho {
+    background-color: lightslategrey;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+
+.cabecalho-titulo{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+}
+
+.cabecalho-subtitulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
+
+.div-botao {
+    justify-items: center;
+    align-items: center;
+    background-color: antiquewhite;
+    height: 80px;
+    width: 80px;
+    border: 4px solid;
+    wiborder-radius: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /*Adiciona uma sombra suave com efeito 3D*/
+    transition: 0.4s; /*Faz a animação de hover ficar mais suave*/
+    
+}
+
+.div-botao a { /*Faz o link ocupar todo o espaço do botão, fazendo com que a logo centralize*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+}
+
+.div-botao img {
+    width: 50%;  /*Ajusta a imagem proporcionalmente*/
+    height: auto;
+}
+
+.div-botao:hover {
+    background-color: blueviolet; /*Muda a cor de fundo ao passar o mouse sobre os botões*/
+}
+
+.div-conteudo {
+    display: flex;
+    justify-content: center; /*Centraliza os botões*/
+    align-items: center;
+    gap: 15px 15px; /*Espaço entre os botões*/
+    flex-wrap: wrap; /*Permite ajuste responsivo em telas menores*/
+    padding: 20px;
+}
+
+.div-botao-container {
+    display: flex;
+    flex-direction: column; /*Organiza o botão e os créditos verticalmente*/
+    align-items: center; /* Centraliza os itens */
+    text-align: center; /* Centraliza o texto dentro do container */
+    margin-top: 100px;
+}
+
+.creditos {
+    font-size: 12px;
+    margin-top: 5px; /* Espaço entre o botão e o crédito */
+}
+
+.creditos a {
+    color: #555;
+    text-decoration: none;
+}
+
+.creditos a:hover {
+    text-decoration: underline;
+}
+
+
+.div-video-container {
+    overflow: hidden;
+    max-height: 300px;
+    position: relative;
+}
+
+.rodape {
+    color: black; /*Cor do texto*/
+    text-align: center; /*Centraliza o texto*/
+    padding: 9px; /*Espaçamento interno */
+    font-size: 14px; /*Tamanho do texto */
+    margin-top:80px;
+}
+
+.rodape a {
+    color: black; /*Cor do link*/
+    text-decoration: none; /*Remove o sublinhado*/
+}
+
+.rodape a:hover {
+    text-decoration: underline; /*Adiciona sublinhado ao passar o mouse*/
+}
+
+.video-player {
+    margin-top: -110px;
+    width: 100%;
+}
+
+.video-source {
+    height: auto;
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+}
