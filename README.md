@@ -35,7 +35,7 @@ Este projeto é um modelo de portfólio para profissionais de Design UX/UI, cria
 
 ## 📝 Licença
 Este projeto está licenciado sob os termos da `MIT License`.
-Para mais informações, consulte o arquivo [LICENSE](https://github.com/alinelima30/MarioJump/blob/main/LICENSE)
+Para mais informações, consulte o arquivo [LICENSE](https://github.com/alinelima30/Portifolio/blob/main/LICENSE)
 
 ## Autor
 Desenvolvido por: **Aline Lima**
