@@ -33,6 +33,14 @@ Este projeto é um modelo de portfólio para profissionais de Design UX/UI, cria
 ## 📬 Créditos
 **Ícones**: Os ícones usados no projeto são fornecidos por [Icons8.](https://icons8.com/icons)
 
+## 📝 Licença
+Este projeto está licenciado sob os termos da `MIT License`.
+Para mais informações, consulte o arquivo [LICENSE](https://github.com/alinelima30/MarioJump/blob/main/LICENSE)
+
+## Autor
+Desenvolvido por: **Aline Lima**
+<p>Contato: <a href="mailto:alimary1994@gmail.com">e-mail</a></p>
+
 
   
 
